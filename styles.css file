@@ -1,0 +1,5 @@
+background: blue;
+h2 {
+font-family: "Cherry Cream Soda", system-ui;
+  align: center;
+}
